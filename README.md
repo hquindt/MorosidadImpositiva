@@ -71,8 +71,9 @@ Este proyecto está bajo la licencia MIT. Consulta el archivo [`LICENSE`](LICENS
 ## Contacto
 
 Para consultas sobre el proyecto, puedes contactarme a través de:  
-- **Email**: tu_correo@ejemplo.com  
-- **LinkedIn**: [Tu Perfil](https://www.linkedin.com/in/tu_usuario)  
+- **Email**: hquindt@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/rhquindt/
+- 
 
 ---
 
